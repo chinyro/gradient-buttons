@@ -1,3 +1,3 @@
 # gradient-buttons
 
-![](images/cards-responsive.gif)
+![](images/gradient-buttons.gif)
